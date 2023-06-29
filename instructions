@@ -7,3 +7,10 @@
 after inputting your username, paste the token.
 
 no.5 always changes for each repository
+
+----after deployment--- incase of new changes
+
+1.git add.
+2.git commit -m "changed header name in website" -quotation is to help others
+3.git push -u origin master
+
