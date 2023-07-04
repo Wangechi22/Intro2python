@@ -4,3 +4,5 @@ class Car:
         self.model = model
         self.owner = owner
         self.color = color
+
+#when declaring a class it needs to start in caps
