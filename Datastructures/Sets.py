@@ -2,4 +2,4 @@
 #order is not guaranteed
 #does not allow duplicates
 
-myfriends = {"John" , "Ian", ""}
+myfriends = {"John", "Ian", "Jude"}
